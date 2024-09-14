@@ -1,2 +1,2 @@
-# Customer-Segmentation
-RFM Customer Segmentation
+# Online Retail Customer-Segmentation
+RFM Customer Segmentation for Onlie Retail
